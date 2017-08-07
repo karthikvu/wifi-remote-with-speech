@@ -2,8 +2,9 @@
 A MEAN Stack implementation of wifi-remote to control a destination PC using voice
 
 
-#Usage
-Install : 
+# Usage
+
+Install : <br>
 <code>npm install</code>
-Run : 
+Run :  <br>
 <code>npm start</code>
