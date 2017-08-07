@@ -1,0 +1,21 @@
+{
+  "name": "wifi-remote",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.16.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.0",
+    "ejs": "^2.5.7",
+    "express": "~4.14.1",
+    "jade": "~1.11.0",
+    "libnmap": "^0.3.9",
+    "morgan": "~1.7.0",
+    "node-libnmap": "^0.2.15",
+    "serve-favicon": "~2.3.2",
+    "vol": "^2.1.1"
+  }
+}
