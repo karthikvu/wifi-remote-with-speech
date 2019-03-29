@@ -12,7 +12,7 @@
     "ejs": "^2.5.7",
     "express": "~4.14.1",
     "jade": "~1.11.0",
-    "libnmap": "^0.3.9",
+    "libnmap": "^0.4.16",
     "morgan": "~1.7.0",
     "node-libnmap": "^0.2.15",
     "serve-favicon": "~2.3.2",
